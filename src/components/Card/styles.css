@@ -1,0 +1,17 @@
+.Card {
+    margin-top: 20px;
+    height: 80px;
+    width: 50%;
+
+    background: #735bf2;
+    color: #ffff;
+
+    border-radius: 10px;
+    margin-bottom: 1px;
+
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding: 24px;
+}
+
